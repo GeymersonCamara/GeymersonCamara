@@ -17,7 +17,7 @@
 
 | Estatísticas gerais | Linguagens mais usadas |
 |:---:|:---:|
-| <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=GeymersonCamara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&locale=pt-br" /> | <img height="170" alt="Principais linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeymersonCamara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" /> |
+| <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeymersonCamara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&locale=pt-br" /> | <img height="170" alt="Principais linguagens" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeymersonCamara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" /> |
 
 Sequência de commits · **contribuições**
 
