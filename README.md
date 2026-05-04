@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Geymerson
 
-**Frontend Developer** · React · TypeScript · interfaces que fazem sentido
+**Desenvolvedor front-end** · React · TypeScript · interfaces com propósito
 
 [![Perfil](https://img.shields.io/badge/GitHub-GeymersonCamara-181717?style=flat-square&logo=github)](https://github.com/GeymersonCamara)
 [![Visitantes](https://komarev.com/ghpvc/?username=GeymersonCamara&label=Visitas&color=7c3aed&style=flat-square)](https://github.com/GeymersonCamara)
@@ -17,19 +17,19 @@
 
 | Estatísticas gerais | Linguagens mais usadas |
 |:---:|:---:|
-| <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GeymersonCamara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" /> | <img height="170" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeymersonCamara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" /> |
+| <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=GeymersonCamara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&locale=pt-br" /> | <img height="170" alt="Principais linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeymersonCamara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" /> |
 
-Sequência de commits · **contributions**
+Sequência de commits · **contribuições**
 
-<img height="180" alt="Streak" src="https://streak-stats.demolab.com?user=GeymersonCamara&theme=tokyonight&hide_border=true&border_radius=8" />
+<img height="180" alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=GeymersonCamara&theme=tokyonight&hide_border=true&border_radius=8&locale=pt_BR" />
 
 Atividade nos últimos dias
 
-<img width="95%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GeymersonCamara&theme=tokyo-night&hide_border=true&radius=8" />
+<img width="95%" alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=GeymersonCamara&theme=tokyo-night&hide_border=true&radius=8" />
 
 Troféus do perfil
 
-<img width="95%" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=GeymersonCamara&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
+<img width="95%" alt="Troféus do perfil" src="https://github-profile-trophy.vercel.app/?username=GeymersonCamara&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -51,7 +51,7 @@ pie showData
 
 ```mermaid
 flowchart LR
-    subgraph Front["Frontend"]
+    subgraph Front["Camada front-end"]
         R[React]
         TS[TypeScript]
         H[HTML5]
@@ -86,11 +86,11 @@ flowchart LR
 
 ---
 
-## Agora
+## No momento
 
-- Trabalhando como **Frontend Developer**
-- Stack principal: **React** + **TypeScript**
-- Aprofundando **TypeScript avançado** e **arquitetura frontend**
+- Atuando como **desenvolvedor front-end**
+- Stack principal: **React** e **TypeScript**
+- Aprofundando **TypeScript avançado** e **arquitetura de front-end**
 
 ---
 
