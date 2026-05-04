@@ -40,26 +40,27 @@ Troféus do perfil
 Distribuição ilustrativa do foco atual (complementa as estatísticas dos repositórios acima).
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#7c3aed', 'primaryTextColor': '#f8fafc', 'pieSectionTextSize': '14px'}}}%%
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'darkMode': true,
+    'background': '#1a1b26',
+    'primaryTextColor': '#c0caf5',
+    'pieSectionTextSize': '14px',
+    'pieOuterStrokeWidth': '2px',
+    'pieOuterStrokeColor': '#1a1b26',
+    'pie1': '#a855f7',
+    'pie2': '#22d3ee',
+    'pie3': '#f472b6',
+    'pie4': '#4ade80'
+  }
+}}%%
 pie showData
     title Foco de estudo / trabalho
     "React & ecossistema" : 35
     "TypeScript" : 30
     "HTML & CSS" : 20
     "Arquitetura & boas práticas" : 15
-```
-
-```mermaid
-flowchart LR
-    subgraph Front["Camada front-end"]
-        R[React]
-        TS[TypeScript]
-        H[HTML5]
-        C[CSS3]
-    end
-    R --> TS
-    TS --> H
-    TS --> C
 ```
 
 ---
